@@ -5,9 +5,7 @@ fscan二开，增加一些扫描完内网常见漏洞后的利用，方便被应
 mssql模块 -mc 执行命令   
 xp_cmdshell已支持  
 <img width="656" alt="图片" src="https://github.com/kong030813/Z-Fscan_ekp/assets/97926809/15f6fb38-e2a6-4321-a3c7-962c123577cf">  
-redis模块 -rw 直接写入公钥  
-<img width="635" alt="图片" src="https://github.com/kong030813/Z-Fscan_ekp/assets/97926809/408d11cf-3683-4be7-bbaa-0d366220d395">  
--c可直接命令执行  
+redis模块 -rw 直接写入公钥，-c指定命令（默认ifconfig）   
 <img width="646" alt="图片" src="https://github.com/kong030813/Z-Fscan_ekp/assets/97926809/31193f9a-2b87-48c9-8de6-002a9f2d939c">  
 
 后续计划更新  
